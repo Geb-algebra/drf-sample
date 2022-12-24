@@ -10,7 +10,7 @@ This command starts a shell in a container.
 docker compose run api
 ```
 
-in container, run this command to start a api server on port 8000
+in container, run this command to start an api server on port 8000
 
 ```sh
 python manage.py runserver
